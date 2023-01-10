@@ -12,7 +12,7 @@
         "compiler": "babel",
         "outputPath": "dist/apps/local-test-app",
         "index": "apps/local-test-app/src/index.html",
-        "baseHref": "/",
+        "baseHref": "/apps/local-test-app/",
         "main": "apps/local-test-app/src/main.tsx",
         "polyfills": "apps/local-test-app/src/polyfills.ts",
         "tsConfig": "apps/local-test-app/tsconfig.app.json",

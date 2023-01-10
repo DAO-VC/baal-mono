@@ -12,7 +12,7 @@
         "compiler": "babel",
         "outputPath": "dist/apps/summon",
         "index": "apps/summon/src/index.html",
-        "baseHref": "/",
+        "baseHref": "/apps/summon/",
         "main": "apps/summon/src/main.tsx",
         "polyfills": "apps/summon/src/polyfills.ts",
         "tsConfig": "apps/summon/tsconfig.app.json",
